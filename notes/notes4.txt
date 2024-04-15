@@ -1,0 +1,21 @@
+Assessment strategies
+assessment in programming
+    standardized tests vs authentic assessment/projects
+    trends in CS interviews
+elements of effective feedback
+    timely (within 24 hours)
+    acknowledging successful parts
+    prompt student to expand/consider specific areas?
+    Allow for resubmission to reiterate that the teacher is there because they want the student to succeed
+    use course text for citations/paper ideas and content for effective feedback techniques/elements
+pen and paper vs IDE coding exercises
+real code vs pseudocode pros and cons (any research?)
+giving good feedback - autograders?
+    paper suggests auto graders are actually pretty beneficial to use!
+syllabus on course outline, expectations, grading, classroom routines/procedures, and how 'participation' will be measured/graded    
+using experiences in class to reflect and improve teaching
+    do metrics for performance match expectations based on your experience with the student? Are grading metrics fair? Are they too easy to skirt, or too punishing to students who are doing well?
+motivation
+    Minecraft education
+    game based learning
+    assessments in MCEd
