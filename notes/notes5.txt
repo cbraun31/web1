@@ -10,3 +10,6 @@ What does it mean to be a Computer Science teacher?
 
     growth:
         Piaget's theory of development and framework to start thinking about what cognitive tasks are appropriate for students as a function of age
+
+    Web development as an example of personal growth and being an active lifelong learning.
+    Being willing to learn new content
