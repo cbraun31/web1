@@ -2,20 +2,28 @@ Assessment strategies
 assessment in programming
     standardized tests vs authentic assessment/projects
     trends in CS interviews
+    pen and paper vs IDE coding exercises
+    real code vs pseudocode pros and cons (any research?)
+    assessing group projects in CS Dr. Panther book to find resources and papers
 elements of effective feedback
     timely (within 24 hours)
     acknowledging successful parts
     prompt student to expand/consider specific areas?
     Allow for resubmission to reiterate that the teacher is there because they want the student to succeed
     use course text for citations/paper ideas and content for effective feedback techniques/elements
-pen and paper vs IDE coding exercises
-real code vs pseudocode pros and cons (any research?)
-giving good feedback - autograders?
-    paper suggests auto graders are actually pretty beneficial to use!
+    giving good feedback - autograders?
+        paper suggests auto graders are actually pretty beneficial to use! sources?
+
 syllabus on course outline, expectations, grading, classroom routines/procedures, and how 'participation' will be measured/graded    
+    Late work policy to be as flexible as Dr. Panther's <3. Adjustments needed for middle/high/undergrad levels?
+    Effects of stress/anxiety on academic performance. A little bit is necessary!
+
 using experiences in class to reflect and improve teaching
     do metrics for performance match expectations based on your experience with the student? Are grading metrics fair? Are they too easy to skirt, or too punishing to students who are doing well?
 motivation
+    A brief survey of factors affecting student motivation. In the wise words of John Mulaney, "Doing nothing in infinitely easier than doing something. That anyone would do anything is amazing"
+    stress/anxiety vs game-gamed learning vs gamification motivation effects
+
     Minecraft education
     game based learning
     assessments in MCEd
