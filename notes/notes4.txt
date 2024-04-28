@@ -1,17 +1,24 @@
 Assessment strategies
 assessment in programming
- it might be proposed that receiving human feedback
+
+Leite Blanco
+it might be proposed that receiving human feedback
 has a naturally demystifying effect: that a student might be unsure
 whether they are interpreting the grading tool’s output correctly,
 and that human feedback clarifies any such ambiguities for stu-
 dents.
+
 Another issue observed was the use of the grading tool as a black-
 box debugger since we offered students unlimited opportunities
 to “test their code” for an estimated score but no feedback – the
 precise opposite of the way students were intended to use it. 
+
+csf2
 To discourage students from targeting their code to specific test cases, starting
 with Spring 2017, instructors changed the feedback given to students to a signal indicating overall
 progress instead of an actual score or information about the number of passed and failed test cases.
+
+
 In this scheme, a submission would be tagged with a red “light” for a score below 20, a yellow “light”
 for a score between 20 and 60 for PayFriend and between 20 and 80 for TwoSmallest, and a green
 2 Students were not given information on the test cases themselves.
@@ -24,6 +31,11 @@ green meant that the submission was definitely on the right track but there was 
 perfect score or that the submission had passed all the test cases. The latter was used to encourage
 students to think about comprehensive test plans rather than gaming the system to try to get a
 perfect score. The final scores were released to the students after the assignment deadline.
+
+
+tipqeda:
+
+
     standardized tests vs authentic assessment/projects
     trends in CS interviews
     pen and paper vs IDE coding exercises
