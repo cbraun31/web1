@@ -1,21 +1,53 @@
 Assessment strategies
 assessment in programming
+ it might be proposed that receiving human feedback
+has a naturally demystifying effect: that a student might be unsure
+whether they are interpreting the grading tool’s output correctly,
+and that human feedback clarifies any such ambiguities for stu-
+dents.
+Another issue observed was the use of the grading tool as a black-
+box debugger since we offered students unlimited opportunities
+to “test their code” for an estimated score but no feedback – the
+precise opposite of the way students were intended to use it. 
+To discourage students from targeting their code to specific test cases, starting
+with Spring 2017, instructors changed the feedback given to students to a signal indicating overall
+progress instead of an actual score or information about the number of passed and failed test cases.
+In this scheme, a submission would be tagged with a red “light” for a score below 20, a yellow “light”
+for a score between 20 and 60 for PayFriend and between 20 and 80 for TwoSmallest, and a green
+2 Students were not given information on the test cases themselves.
+ACM Transactions on Computing Education, Vol. 21, No. 3, Article 21. Publication date: May 2021.
+21:14 G. Haldeman et al.
+“light” for a score above 60 for PayFriend and above 80 for TwoSmallest. Instructors explained to the
+students that red meant that a submission was very far from a correct solution, yellow meant that
+a submission was on the right track but was still giving the wrong answer for many test cases, and
+green meant that the submission was definitely on the right track but there was no guarantee of a
+perfect score or that the submission had passed all the test cases. The latter was used to encourage
+students to think about comprehensive test plans rather than gaming the system to try to get a
+perfect score. The final scores were released to the students after the assignment deadline.
     standardized tests vs authentic assessment/projects
     trends in CS interviews
+    pen and paper vs IDE coding exercises
+    real code vs pseudocode pros and cons (any research?)
+    assessing group projects in CS Dr. Panther book to find resources and papers
 elements of effective feedback
     timely (within 24 hours)
     acknowledging successful parts
     prompt student to expand/consider specific areas?
     Allow for resubmission to reiterate that the teacher is there because they want the student to succeed
     use course text for citations/paper ideas and content for effective feedback techniques/elements
-pen and paper vs IDE coding exercises
-real code vs pseudocode pros and cons (any research?)
-giving good feedback - autograders?
-    paper suggests auto graders are actually pretty beneficial to use!
+    giving good feedback - autograders?
+        paper suggests auto graders are actually pretty beneficial to use! sources?
+
 syllabus on course outline, expectations, grading, classroom routines/procedures, and how 'participation' will be measured/graded    
+    Late work policy to be as flexible as Dr. Panther's <3. Adjustments needed for middle/high/undergrad levels?
+    Effects of stress/anxiety on academic performance. A little bit is necessary!
+
 using experiences in class to reflect and improve teaching
     do metrics for performance match expectations based on your experience with the student? Are grading metrics fair? Are they too easy to skirt, or too punishing to students who are doing well?
 motivation
+    A brief survey of factors affecting student motivation. In the wise words of John Mulaney, "Doing nothing in infinitely easier than doing something. That anyone would do anything is amazing"
+    stress/anxiety vs game-gamed learning vs gamification motivation effects
+
     Minecraft education
     game based learning
     assessments in MCEd

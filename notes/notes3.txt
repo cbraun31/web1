@@ -1,8 +1,15 @@
 EQ 3: instruction
 2 interesting angles
-- differentiation of existing resource/activity
-    using different exercises in CodeHS
-    scaffolding in CodeHS
+1. In depth lesson plan of Activity for intro programming in 6th/7th grade: Maze intro
+    Provide students with a small set of instructions that they can give their program: left(90) and forward(1). 
+    Show simple maze and show how students could solve it using these instructions. Make it very easy, but emphasize the order of the instructions is important
+    After students work through the first one, provide a choice board with a few different patterns of mazes, each emphasizing a different one of the '4 pillars of programming'
+a. Loops: have a repeating pattern in the maze
+b. Variables: have the ability to have input, and read the input as the robot goes along
+c. Conditionals: Give students ability to read a value from environment, and use that to make a decision. Program should be able to solve 2 mazes with NO PROGRAM CHANGES!
+d. Functions: Enforce a lines of code limit and require that the maze have lots of right turns and repeating patterns arranged in different ways. Students should be shown how to make a function to make a right turn.
+2. using different exercises in CodeHS
+    scaffolding in CodeHS? Choice boards in codeHS via 
 layout of classroom
 'decorations' posters on wall
     incorporate computing concepts like logical statements to reiterate that consequences will be consistently enforced, for example
@@ -10,6 +17,7 @@ paper on how traditional CS decorations are potentially alienating to girls
 
 Substitute plans (that I can test at end of May on random stuff days)
 Gradeable, single day, standalone activities
+    Sources? Code.org intro activities, projectSTEM one day activities!
     So many weeks get split up in weird ways, making sticking to a strict schedule impossible. Trying to do so would set teachers up for failure. Have a bank of resources/lessons/activities to include, and give them for as many days as time allows before moving on to next topic. Modular lesson plan design?
         would remove the pressure of staying on schedule or else falling behind
         can leave a topic, but come back to it later with an easy to plug in lesson
