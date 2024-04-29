@@ -1,7 +1,7 @@
 Assessment strategies
 assessment in programming
 
-Leite Blanco
+Leite Blanco 2020
 it might be proposed that receiving human feedback
 has a naturally demystifying effect: that a student might be unsure
 whether they are interpreting the grading tool’s output correctly,
@@ -13,17 +13,13 @@ box debugger since we offered students unlimited opportunities
 to “test their code” for an estimated score but no feedback – the
 precise opposite of the way students were intended to use it. 
 
-csf2
+Haldeman 2021
 To discourage students from targeting their code to specific test cases, starting
 with Spring 2017, instructors changed the feedback given to students to a signal indicating overall
 progress instead of an actual score or information about the number of passed and failed test cases.
-
-
 In this scheme, a submission would be tagged with a red “light” for a score below 20, a yellow “light”
 for a score between 20 and 60 for PayFriend and between 20 and 80 for TwoSmallest, and a green
 2 Students were not given information on the test cases themselves.
-ACM Transactions on Computing Education, Vol. 21, No. 3, Article 21. Publication date: May 2021.
-21:14 G. Haldeman et al.
 “light” for a score above 60 for PayFriend and above 80 for TwoSmallest. Instructors explained to the
 students that red meant that a submission was very far from a correct solution, yellow meant that
 a submission was on the right track but was still giving the wrong answer for many test cases, and
@@ -32,8 +28,12 @@ perfect score or that the submission had passed all the test cases. The latter w
 students to think about comprehensive test plans rather than gaming the system to try to get a
 perfect score. The final scores were released to the students after the assignment deadline.
 
+Luo 2022
+Many of the studies in the literature focus on post-secondary students, even if the course is 
+introductory programming. This is reasonable given the time required to conduct a thorough study 
+and relatively recent introduction of computer science requirements to the elementary and secondary 
+curriculum. This is one of the first formal studies on computer science instructional strategies in elementary education. 
 
-tipqeda:
 
 
     standardized tests vs authentic assessment/projects

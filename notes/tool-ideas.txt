@@ -2,3 +2,27 @@ lesson plan formatter tool
 quick formative/behavior notebook/stat tracker/table/etc. tool
 programming exercise randomizer
 Unit planning plug and play modules tool
+2. using different exercises in CodeHS
+    scaffolding in CodeHS? Choice boards in codeHS? Might need more technology support, or link to website/Google classroom for more control over specific features to allow choice boards. 
+layout of classroom
+'decorations' posters on wall
+    incorporate computing concepts like logical statements to reiterate that consequences will be consistently enforced, for example
+paper on how traditional CS decorations are potentially alienating to girls
+
+Substitute plans (that I can test at end of May on random stuff days)
+Gradeable, single day, standalone activities
+    Sources? Code.org intro activities, projectSTEM one day activities!
+    So many weeks get split up in weird ways, making sticking to a strict schedule impossible. Trying to do so would set teachers up for failure. Have a bank of resources/lessons/activities to include, and give them for as many days as time allows before moving on to next topic. Modular lesson plan design?
+        would remove the pressure of staying on schedule or else falling behind
+        can leave a topic, but come back to it later with an easy to plug in lesson
+            spiraling enabled by being able to move them around
+        can organize using something like posets (partially ordered sets)/prereq chains
+    difficult to ensure that a topic gets thoroughly covered if a day is missed
+    Difficult to align to standards
+    benefits of spaced repetition/spiral 
+    how to integrate differentiation in this model?
+        Assign extra activities as stretch goals?
+        I feel like you can't give different assignments from the start
+    course content is not really ever completely cumulative
+        Programming fundamentals could even be presented as tiny, standalone units. Depending on the amount of other content covered, they can be integrated into multiple larger activities  
+            Revisit same content with different tools/approaches?
