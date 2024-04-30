@@ -1,10 +1,32 @@
+TODO:
+Standards alignment of unit planning tables
 lesson plan formatter tool
 quick formative/behavior notebook/stat tracker/table/etc. tool
+    sync between teachers? logins?
 programming exercise randomizer
 Unit planning plug and play modules tool
+networking idle game style
+layout of classroom thoughts and diagrams
+    considerations in computer labs
+    seeing screens
+    network and power
+    group work availability
+    cabling such that students don't trip
+GPT model trained on lit reviews
+https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc
+
+poster activity idea for computer parts 
+    let kids select even size groups
+    each group chooses one component
+    create pieces of paper sized posters for their component each
+        Large name of component and abbreviation
+        small picture
+    Tell groups to find people with other parts to build a computer!
+    can display student work on walls that way
+
+
 2. using different exercises in CodeHS
     scaffolding in CodeHS? Choice boards in codeHS? Might need more technology support, or link to website/Google classroom for more control over specific features to allow choice boards. 
-layout of classroom
 'decorations' posters on wall
     incorporate computing concepts like logical statements to reiterate that consequences will be consistently enforced, for example
 paper on how traditional CS decorations are potentially alienating to girls
@@ -26,35 +48,3 @@ Gradeable, single day, standalone activities
     course content is not really ever completely cumulative
         Programming fundamentals could even be presented as tiny, standalone units. Depending on the amount of other content covered, they can be integrated into multiple larger activities  
             Revisit same content with different tools/approaches?
- Warm up: 3 minutes - Using the ingredients of a provided recipe, what else can you make? 
- Direct Instruction (full class, 5 minutes): Show slides that have a simple example maze on it. 
- Tell students that we have to make a robot go through the maze, but the robot can only do 2 things: 
- turn left 90 degrees and 
- go forward 1 meter. 
- Maze is designed such that it will only require single turns, but have one place where we have to go forward twice. 
- Explain thought process 
- (OK, let me check what tools I have in my toolbox. I can go forward or turn. Which one should I use next?) 
- as we work through the problem together. 
- MODEL THE PROCESS OF UPDATING STATE IN EXAMPLES!!! 
- Direct Instruction (full class, 7 minutes): 
- Introduce 4 pillars of Programming: loops, variables, conditionals, functions. 
- Show examples that motivate each of these structures
- Group work (assigned groups based on choice board, 25 minutes) 
- students should be instructed to use index cards with the available commands to create a list of instructions that will solve their maze Teacher walks aroud helping during this time. Specific goals of each group's maze problem based on choice: 
- a. Loops: have a repeating pattern in the maze, and enforce a lines of code limit (Only so many index cards). Give students a card that they can use to repeat a set of commands 
- b. Variables: have the ability to have input, and read the input as the robot goes along. Tell students that they don't know what maze will be used, but can see it as their robot goes through it and can send it information. Give them a card with a hole in it, and they can use multiple values to fill it in as it runs 
- c. Conditionals: Give students ability to read a value from environment, and use that to make a decision. Program should be able to solve 2 mazes with NO PROGRAM CHANGES! Give students an "if" card and a condition card 
- d. Functions: Enforce a lines of code limit and require that the maze have lots of right turns and repeating patterns arranged in different ways. Students should be shown how to make a function to make a right turn. allow students to tape cards together, give them a name, and make it a single card 
- Discuss progress and problems (10 minutes) 
- After students have constructed their paper programs, we will physically walk through a few and see if they work! 
- End of class 1
- Start of class 2 - 86 minute day: 
- Warm up: Show mazes and ask what tools they would use to solve it. (3 minutes) 
- Direct Instruction: Makecode introduction in Minecraft Education and Micro:bit 
- setup/login (5 minutes) 
- Work through an example in Makecode of one the mazes from yesterday by having a student volunteer provide their index cards. I will demonstrate how to convert the paper programs into Makecode blocks to run on Minecraft Education and Micro:bit(20 minutes) 
- Demonstrate blocks for functions, conditionals, loops, and variables. (10 minutes) 
- New choice board: Have students work together in groups of students that made different choices yesterday. 
- 1. Special Agent (Minecraft Education, 50 minutes) Solve preconfigured minecraft worlds with different stages, allowing them to choose a path through different concepts. 
- 2. Fly Away Finchy! (Finch robots, 50 minutes) Bring out preconstructed mazes made out of paper and tape. Show students the micro:bits and Finch robots, which also use Makecode. Demonstrate the process for downloading code on the Micro:bit, and finding the relevant commands. 
- Superstar differentiation extension: if at any point a student/group completes multiple or all of the mazes, they can use a Finch robot/minecraft Education world to try to solve a challenge maze that they don't get to see ahead of time, and DON'T get to interact with their robot during! This will require using a sensor for the Finch, or detecting blocks in Minecraft.
