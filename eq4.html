@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>CS Assessment</title>
+    <style>
+        ol li {
+            padding-left: 36px;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        .apa-ref {
+            text-indent: -36px;
+            padding-left: 36px;
+            padding-bottom: 10px;
+        }
+
+        p {
+            text-indent: 36px;
+            padding-left: -36px;
+            margin-bottom: 0;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1> Assessment in Computer Science </h1>
+        <h2> An Annotated Bibliography of Autograders and Feedback Systems</h2>
+        <hr><br>
+        <ul>
+            <li class="apa-ref">Abe Leite and Saúl A. Blanco. 2020. Effects of Human vs. Automatic Feedback on Students'
+                Understanding
+                of AI
+                Concepts and Programming Style. In The 51st ACM Technical Symposium on Computer Science Education.
+                https://doi.org/10.1145/3328778.3366921
+                <p>While most studies purported that autograders were an effective means of providing feedback to
+                    students in a timely fashion, this study stands out as the one that disagrees and encourages more
+                    human feedback. "It might be proposed that receiving human feedback has a naturally demystifying
+                    effect: that a
+                    student
+                    might be
+                    unsure whether they are interpreting the grading tool's output correctly, and that human feedback
+                    clarifies any
+                    such ambiguities for students."</p>
+                <p>"Another issue observed was the use of the grading tool as a black-box debugger… since we offered
+                    students
+                    unlimited opportunities to 'test their code' for an estimated score but no feedback - the precise
+                    opposite of
+                    the way students were intended to use it." This issue is an example of students trying to 'game the
+                    system' by essentially asking for a new grade until they get the grade they want. </p>
+            </li class="apa-ref">
+            <hr>
+            <li class="apa-ref">
+                Haldeman, G., Babeş-Vroman, M., Tjang, A., &amp; Nguyen, T. D. (2021). CSF2: Formative Feedback in
+                Autograding. ACM Transactions on Computing Education, 21(3), 1-30. <a target="_blank"
+                    rel="noopener noreferrer" href="https://doi.org/10.1145/3445983">https://doi.org/10.1145/3445983</a>
+                <p>This paper outlines a methodology for providing students with automated formative feedback.
+                    Unfortunately, the results of the paper indicate that neither students nor instructors found the
+                    feedback very useful. Students often expressed confusion about the error, and instructors suspect
+                    that a small number of erroneous error reports sour the perception of their accuracy. In response to
+                    the issue mentioned in the Leite and Blanco study: "To discourage students from
+                    targeting their code to specific test cases, starting with Spring
+                    2017,
+                    instructors changed the feedback given to students to a signal indicating overall progress
+                    instead of an
+                    actual score or information about the number of passed and failed test cases.In this scheme, a
+                    submission would be tagged with a red “light” for a score below 20, a yellow “light” for a score
+                    between
+                    20 and 60 for PayFriend and between 20 and 80 for TwoSmallest, and a green “light” for a score above
+                    60 for PayFriend and above 80
+                    for
+                    TwoSmallest. Instructors explained to the students that red meant that a submission was very far
+                    from a
+                    correct solution, yellow meant that a submission was on the right track but was still giving the
+                    wrong
+                    answer for many test cases, and green meant that the submission was definitely on the right track
+                    but
+                    there was no guarantee of a perfect score or that the submission had passed all the test cases.
+                    The
+                    latter was used to encourage students to think about comprehensive test plans rather than gaming
+                    the
+                    system to try to get a perfect score. The final scores were released to the students after the
+                    assignment
+                    deadline." I think this strategy effectively mitigates the issue, and I would like to see support
+                    for such a system in the platform that we use in GCPS (CodeHS).
+                </p>
+            </li class="apa-ref">
+            <hr>
+            <li class="apa-ref">
+                Luo, F., Israel, M., &amp; Gane, B. (2022). Elementary Computational Thinking Instruction and
+                Assessment: A
+                Learning Trajectory Perspective. ACM Transactions on Computing Education, 22(2), 1-26.
+                https://doi.org/10.1145/3494579
+                <p>Many of the studies in the literature focus on post-secondary students, even if the course
+                    is introductory programming. This is reasonable given the time required to conduct a
+                    thorough
+                    study and relatively recent introduction of computer science requirements to the elementary
+                    and
+                    secondary curriculum. This is one of the first formal studies on computer science
+                    instructional
+                    strategies in elementary education.</p>
+                <p>
+
+                    The authors found that for elementary students, word problems that assume knowledge from other
+                    fields caused invalid assessment results. "Findings revealed that the math knowledge required in
+                    answering some of the assessment items
+                    can interfere with students' ability to solve an item. For example, when students are not familiar
+                    with finding the area, they may not be able to articulate how to decompose the problem to find
+                    the area of a polygon, even when no mathematical calculation with numbers is needed." I observe this
+                    effect in my 8th graders as well, and have been frustrated while using the Tracy environment for
+                    this reason. Tracy assumes that the learner has a pretty solid geometry foundation, and even the
+                    early exercises test these facts when there is no reason to.
+                </p>
+            </li class="apa-ref">
+            <hr>
+            <li class="apa-ref">Pelánek, R., &amp; Effenberger, T. (2023). The landscape of computational thinking
+                problems for practice
+                and
+                assessment. ACM Transactions on Computing Education, 23(2), 1-29. https://doi.org/10.1145/3578269
+                <p>"[W]e found 20 papers that used well-structured
+                    problems and included sufficiently detailed information to determine what kind of problems was
+                    used.
+                    Within this sample, the clearly dominant problem class is “code interpretation.” This class was
+                    used in some form in nearly all of these papers. Other repeatedly used classes are “block-based
+                    programming in microworlds” (six papers) and “problem solving and logic puzzles” (three papers)."
+                </p>
+                <p>These types of problems are easy to grade and offer a realistic experience of trying to figure out
+                    what code does. However, as the authors of this study note, there are factes of computational
+                    thinking that are not covered by these types of questions. I think the problem solving skills
+                    questions should represent a larger proportion of CS assessment questions. In general, I think
+                    projects that allow students to use their skills to create something are the most effective forms of
+                    assessment in CS.</p>
+                <p>"Several types of scaffolding [are used] in block-based environments; with the use of these
+                    scaffoldings, we obtain a smooth transition toward the code interpretation class. Block-based
+                    programming in microworlds also has close connections outside computational thinking (e.g., geometry
+                    skills) and natural transition toward open-ended activities, e.g., the programming of multimedia
+                    stories(Scratch, ScratchJr, Alice) or physical robots(e.g., Lego Mindstorms, Lego WeDo, Ozobot,
+                    Beebot, Dash&Dot)." The authors do an excellent job at listing the merits of block based languages;
+                    they also claim that these types of problems can be used for any age group elementary through
+                    university students. This coupled with the smooth transition into the code interpretation class is
+                    an excellent way to transition students onto text based languages once they understand the
+                    underlying concepts.</p>
+            </li class="apa-ref">
+            <hr>
+        </ul>
+
+
+</body>
+
+</html>

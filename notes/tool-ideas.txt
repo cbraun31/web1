@@ -1,10 +1,32 @@
+TODO:
+Standards alignment of unit planning tables
 lesson plan formatter tool
 quick formative/behavior notebook/stat tracker/table/etc. tool
+    sync between teachers? logins?
 programming exercise randomizer
 Unit planning plug and play modules tool
+networking idle game style
+layout of classroom thoughts and diagrams
+    considerations in computer labs
+    seeing screens
+    network and power
+    group work availability
+    cabling such that students don't trip
+GPT model trained on lit reviews
+https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc
+
+poster activity idea for computer parts 
+    let kids select even size groups
+    each group chooses one component
+    create pieces of paper sized posters for their component each
+        Large name of component and abbreviation
+        small picture
+    Tell groups to find people with other parts to build a computer!
+    can display student work on walls that way
+
+
 2. using different exercises in CodeHS
     scaffolding in CodeHS? Choice boards in codeHS? Might need more technology support, or link to website/Google classroom for more control over specific features to allow choice boards. 
-layout of classroom
 'decorations' posters on wall
     incorporate computing concepts like logical statements to reiterate that consequences will be consistently enforced, for example
 paper on how traditional CS decorations are potentially alienating to girls
