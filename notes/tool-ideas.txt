@@ -14,6 +14,12 @@ layout of classroom thoughts and diagrams
     cabling such that students don't trip
 GPT model trained on lit reviews
 https://medium.com/@haifengl/a-tutorial-to-llm-f78dd4e82efc
+blookets
+html block coding editors?
+drag and drop computer assembly demo?
+activity where students act as different parts of the computer
+pizza store as parallelization example
+MINECRAFT WHERE YOU GATE RESOURCES/TOOLS BEHIND CHESTS WITH QUESTIONS
 
 poster activity idea for computer parts 
     let kids select even size groups

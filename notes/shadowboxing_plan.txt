@@ -1,0 +1,15 @@
+What are the requirements of our system?
+What tools and materials do we have to work with?
+
+
+Looks like the microbit can relaibly detect up, down, left, right. 
+Using this, what should the flow of our game look like, and which part should we focus on first?
+Let's break our problem down into the things our code will have to do:
+    - Detect both players' input
+    - store the inputs somewhere so we can track the pattern if needed
+    - compare the inputs to see if they match
+    - store that result somewhere
+    - use that result to determine what to do next; reset the 'streak' or continue it 
+    - Somehow get the 2 microbits to talk to each other
+
+if 
