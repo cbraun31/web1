@@ -6,6 +6,9 @@ quick formative/behavior notebook/stat tracker/table/etc. tool
 programming exercise randomizer
 Unit planning plug and play modules tool
 networking idle game style
+    Max flow, add connections and upgrade media
+    cost per material
+    Also add multiplayer, not idle, 4 coop vs 1 hostile 
 layout of classroom thoughts and diagrams
     considerations in computer labs
     seeing screens
@@ -19,7 +22,12 @@ html block coding editors?
 drag and drop computer assembly demo?
 activity where students act as different parts of the computer
 pizza store as parallelization example
-MINECRAFT WHERE YOU GATE RESOURCES/TOOLS BEHIND CHESTS WITH QUESTIONS
+MINECRAFT WHERE YOU GATE RESOURCES/TOOLS BEHIND CHESTS WITH QUESTIONS/CHALLENGES
+web design examples of exact same content with different styling
+    A and B Attorneys at Law with regular styling, wedding website style, ecommerce style, game splash screen style
+slides bank for basic concepts/definitions
+
+
 
 poster activity idea for computer parts 
     let kids select even size groups
