@@ -29,6 +29,7 @@ slides bank for basic concepts/definitions
 Cipher visualizations
 show strings, characters, and math operations EARLY in programming
 rpi and pico project ideas, guides, and learning materials from big book of pedagogy
+tinkercad
 
 
 
