@@ -30,6 +30,7 @@ Cipher visualizations
 show strings, characters, and math operations EARLY in programming
 rpi and pico project ideas, guides, and learning materials from big book of pedagogy
 tinkercad
+nitrotype/monkeytype activity
 
 
 
