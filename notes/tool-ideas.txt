@@ -32,6 +32,9 @@ rpi and pico project ideas, guides, and learning materials from big book of peda
 tinkercad
 nitrotype/monkeytype activity
 cooperative google chrome dino jump? Communication and delegation, team player
+    add a new person partway to show that more people doesn't always make a project faster!
+'hacking' game 
+    asym 4v1 4 defenders vs 1 attacker
 
 
 
