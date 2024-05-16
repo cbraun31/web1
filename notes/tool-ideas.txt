@@ -36,6 +36,8 @@ cooperative google chrome dino jump? Communication and delegation, team player
 'hacking' game 
     asym 4v1 4 defenders vs 1 attacker
 excel/sheets, docs/word, and slides/powerpoint basics for teachers and students
+blockly for creating plugins/libraries for networking, game dev, web dev, etc.
+Makecode for multiple purposes? 
 
 
 
